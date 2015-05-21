@@ -1,2 +1,3 @@
 # u13329414_INF354_HW12
 HEEEEELLLLLLOOOOOOO!!!!
+This is our INF354 Github repo :D
